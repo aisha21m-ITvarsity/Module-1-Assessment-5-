@@ -1,0 +1,45 @@
+.gallery img{
+    width: 100%,
+}
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: darkred;
+    padding-top: 12px;
+}
+
+#menu a{
+    color: white;
+    font-family:serif;
+    font-size: 20px;
+    text-decoration:inherit;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#menu a:hover{
+    color:black;
+}
+
+#about{
+    color:white;
+    background-color: darkred;
+}
+
+h3{
+  width: 20%;
+    height: 20px;
+    color: white;
+    background-color: darkred;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 3px;
+}
+h2{
+    color: darkred;
+}
+h4{
+    color: darkred;
+    font-family:cursive;
+}
